@@ -5,7 +5,7 @@ description = "Python PPPP IoT Device library"
 authors = [
     "Magnus Ihse Bursie <mag@icus.se>",
 ]
-license = "MIT"
+license = "Apache-2.0"
 readme = "README.md"
 
 documentation = "https://magicus.github.io/pypppp"
