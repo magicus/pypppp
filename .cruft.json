@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "4eecc9c4d27e3c9321438bc1fdaf717bec5eadf6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Magnus Ihse Bursie",
+      "author_email": "mag@icus.se",
+      "github_username": "magicus",
+      "project_name": "Python PPPP IoT Device library",
+      "project_slug": "pypppp",
+      "package_name": "pypppp",
+      "project_short_description": "Python PPPP IoT Device library",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
